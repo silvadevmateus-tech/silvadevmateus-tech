@@ -87,24 +87,6 @@ Desenvolvimento de dashboards para visualização de dados, acompanhamento de in
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 📫 Contato
 
 - 📧 E-mail: dev.silva.mateus@gmail.com
-
----
-
-## ✨ Frase que me representa
-
-> Busco transformar processos manuais em soluções automatizadas, organizadas e eficientes, utilizando tecnologia para gerar produtividade e inovação.
