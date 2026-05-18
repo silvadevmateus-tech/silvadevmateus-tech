@@ -13,7 +13,7 @@ Atualmente atuo como **Assistente de Ambiente Virtual de Aprendizagem**, trabalh
 - 🤖 Trabalho com **automação usando Python e Selenium**
 - 📊 Realizo **tratamento e análise de dados com Pandas**
 - 📈 Crio dashboards e relatórios com **Power BI**
-- 🧠 Tenho interesse em automação, análise de dados, sistemas web e tecnologia educacional
+- 🧠 Tenho interesse em automação, análise de dados e tecnologia educacional
 - 📚 Sempre buscando aprender novas tecnologias e desenvolver soluções práticas
 
 ---
